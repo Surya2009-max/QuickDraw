@@ -1,0 +1,26 @@
+body{
+    background: lightblue;
+}
+
+#score{
+    font-size: 50px;
+    margin-right:  600px;
+}
+
+#timer{
+    font-size: 50px;
+    margin-left: 500px
+}
+
+#para, #confidence, #sketch_drawn{
+    font-size: 30px;
+}
+
+h1{
+    font-size: 70px;
+    color: indigo;
+}
+
+#sketch_drawn{
+    color: darkblue;
+}
